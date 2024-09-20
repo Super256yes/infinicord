@@ -57,4 +57,4 @@ async def on_ready():
     except Exception as e:
         print(e)
 
-bot.run("MTE3OTk1NjkwNDE4NTgyMzMxMg.GuoP91.TVIs6T8UOT46l0G-mwky7yPYIdWBnDv4Cr_BDU")
+bot.run("TOKEN")
